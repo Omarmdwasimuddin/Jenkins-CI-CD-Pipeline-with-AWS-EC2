@@ -38,4 +38,4 @@ node {
 }
 ```
 
-####
+#### machine e command koro:wasim@ip-172-31-39-79:~$ sudo visudo --->type koro: jenkins ALL=(ALL) NOPASSWD: ALL --->Ctrl+s--->Ctrl+x
