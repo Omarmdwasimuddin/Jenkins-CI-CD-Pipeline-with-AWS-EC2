@@ -40,3 +40,4 @@ node {
 
 #### machine e command koro:wasim@ip-172-31-39-79:~$ sudo visudo --->type koro: jenkins ALL=(ALL) NOPASSWD: ALL --->Ctrl+s--->Ctrl+x
 #### Project repository te jaw--->click: Settings --->click: Webhooks --->click: Add webhook --->Payload URL: http://18.143.149.173:8080//github-webhook/ --->Content type: application/json--->click: Add webhook
+#### Jenkins er New Item click koro--->Enter an item name: nextjs-aws --->Select: Pipeline --->click: OK--->
