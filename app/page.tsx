@@ -24,7 +24,7 @@ export default function Home() {
             >
               I'm here to help you learn Next.js!
             </a>{" "}
-            Okay, I know you want to see my work, so click the button below to see my portfolio and CV.
+            Okay, I know you want to see my work.
           </p>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
